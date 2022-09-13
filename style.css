@@ -3,11 +3,11 @@ body {
     "Lucida Sans", Arial, sans-serif;
   background: url(images/futurewallpaper.jpg) no-repeat;
   background-size: cover;
-  height: 350vh;
+  height: 800vh;
 }
 
 nav {
-  background: rgba(11, 80, 159, 0.959);
+  background: rgba(5, 62, 128, 0.959);
   backdrop-filter: blur(3px);
   height: 80px;
   width: 100%;
@@ -141,6 +141,14 @@ p {
 }
 
 #HomeImg {
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#DesignImg {
   width: 400px;
   display: block;
   margin-left: auto;
