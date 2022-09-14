@@ -15,7 +15,7 @@ body{
 }
 
 .card{
-    background: white;
+    background: rgb(14, 16, 114);
     width: 270px;
    
     margin: 10px;
@@ -44,7 +44,7 @@ body{
 }
 
 .card:hover {
-    background-color: rgb(70, 65, 65);
+    background-color: rgb(234, 7, 132);
     color: white;
     cursor: pointer;
     transform: scale(1.03);
